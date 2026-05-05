@@ -841,6 +841,8 @@ public class Item {
 		registerItem(275, "stone_axe", (new ItemAxe(Item.ToolMaterial.STONE)).setUnlocalizedName("hatchetStone"));
 		registerItem(276, "diamond_sword",
 				(new ItemSword(Item.ToolMaterial.DIAMOND)).setUnlocalizedName("swordDiamond"));
+		registerItem(276, "netherite_sword",
+				(new ItemSword(Item.ToolMaterial.NETHERITE)).setUnlocalizedName("swordNetherite"));
 		registerItem(277, "diamond_shovel",
 				(new ItemSpade(Item.ToolMaterial.DIAMOND)).setUnlocalizedName("shovelDiamond"));
 		registerItem(278, "diamond_pickaxe",
