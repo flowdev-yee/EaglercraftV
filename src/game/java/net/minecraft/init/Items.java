@@ -39,6 +39,7 @@ public class Items {
 	public static final Item DIAMOND_SHOVEL;
 	public static final Item DIAMOND_PICKAXE;
 	public static final Item DIAMOND_AXE;
+	public static final Item NETHERITE_SWORD;
 	public static final Item STICK;
 	public static final Item BOWL;
 	public static final Item MUSHROOM_STEW;
@@ -264,6 +265,7 @@ public class Items {
 			DIAMOND_SHOVEL = getRegisteredItem("diamond_shovel");
 			DIAMOND_PICKAXE = getRegisteredItem("diamond_pickaxe");
 			DIAMOND_AXE = getRegisteredItem("diamond_axe");
+			NETHERITE_SWORD = getRegisteredItem("netherite_sword");
 			STICK = getRegisteredItem("stick");
 			BOWL = getRegisteredItem("bowl");
 			MUSHROOM_STEW = getRegisteredItem("mushroom_stew");
